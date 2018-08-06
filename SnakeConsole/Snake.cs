@@ -5,6 +5,7 @@ namespace SnakeConsole
     #region class Snake 蛇类，初始化贪食蛇和蛇的行为，如移动，吃食物，成长
     class Snake
     {
+
         int INITIAL_LENTH = 3;
         Point INITIAL_POSITION = new Point(10,10);
         Direction INITIAL_DIRECTION = Direction.Down;

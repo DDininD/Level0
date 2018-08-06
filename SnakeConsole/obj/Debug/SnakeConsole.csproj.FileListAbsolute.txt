@@ -1,0 +1,14 @@
+D:\devs\learnings\csharp\ConsoleApp1\SnakeConsole\bin\Debug\SnakeConsole.exe.config
+D:\devs\learnings\csharp\ConsoleApp1\SnakeConsole\bin\Debug\SnakeConsole.exe
+D:\devs\learnings\csharp\ConsoleApp1\SnakeConsole\bin\Debug\SnakeConsole.pdb
+D:\devs\learnings\csharp\ConsoleApp1\SnakeConsole\obj\Debug\SnakeConsole.csprojAssemblyReference.cache
+D:\devs\learnings\csharp\ConsoleApp1\SnakeConsole\obj\Debug\SnakeConsole.csproj.CoreCompileInputs.cache
+D:\devs\learnings\csharp\ConsoleApp1\SnakeConsole\obj\Debug\SnakeConsole.exe
+D:\devs\learnings\csharp\ConsoleApp1\SnakeConsole\obj\Debug\SnakeConsole.pdb
+C:\Users\Administrator\Documents\Tencent Files\771318779\FileRecv\SnakeConsole\bin\Debug\SnakeConsole.exe.config
+C:\Users\Administrator\Documents\Tencent Files\771318779\FileRecv\SnakeConsole\bin\Debug\SnakeConsole.exe
+C:\Users\Administrator\Documents\Tencent Files\771318779\FileRecv\SnakeConsole\bin\Debug\SnakeConsole.pdb
+C:\Users\Administrator\Documents\Tencent Files\771318779\FileRecv\SnakeConsole\obj\Debug\SnakeConsole.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Tencent Files\771318779\FileRecv\SnakeConsole\obj\Debug\SnakeConsole.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Tencent Files\771318779\FileRecv\SnakeConsole\obj\Debug\SnakeConsole.exe
+C:\Users\Administrator\Documents\Tencent Files\771318779\FileRecv\SnakeConsole\obj\Debug\SnakeConsole.pdb

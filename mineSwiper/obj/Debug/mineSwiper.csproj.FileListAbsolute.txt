@@ -1,0 +1,7 @@
+D:\projects\mineSwiper\bin\Debug\mineSwiper.exe.config
+D:\projects\mineSwiper\bin\Debug\mineSwiper.exe
+D:\projects\mineSwiper\bin\Debug\mineSwiper.pdb
+D:\projects\mineSwiper\obj\Debug\mineSwiper.csprojAssemblyReference.cache
+D:\projects\mineSwiper\obj\Debug\mineSwiper.csproj.CoreCompileInputs.cache
+D:\projects\mineSwiper\obj\Debug\mineSwiper.exe
+D:\projects\mineSwiper\obj\Debug\mineSwiper.pdb

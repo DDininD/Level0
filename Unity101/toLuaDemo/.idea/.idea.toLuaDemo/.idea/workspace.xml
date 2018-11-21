@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="141393ab-899b-4f0b-ba04-df69df385ff8" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="852650370">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.34" value="2" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.77" value="1" />
+          <entry key="project.opened" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="93" />
+          <entry key="json" value="1" />
+          <entry key="lua" value="44" />
+          <entry key="unity" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="93" />
+          <entry key="JSON" value="1" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="lua" value="44" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="3335" />
+          <entry key="lua" value="6340" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="3335" />
+          <entry key="lua" value="6340" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerCharacter.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+              <folding>
+                <marker date="1539397713507" expanded="false" signature="6:111" ph="..." />
+                <marker date="1539397713507" expanded="true" signature="156:640" ph="{...}" />
+                <marker date="1539397713507" expanded="true" signature="253:354" ph="{...}" />
+                <marker date="1539397713507" expanded="true" signature="377:420" ph="{...}" />
+                <marker date="1539397713507" expanded="true" signature="473:530" ph="{...}" />
+                <marker date="1539397713507" expanded="true" signature="580:638" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Lua/Main.lua">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Lua/Env.lua">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Lua/Player.lua">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1128">
+              <caret line="47" column="23" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Utils/LuaUtil.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
+              <folding>
+                <marker date="1539311166706" expanded="false" signature="7:39" ph="..." />
+                <marker date="1539311166706" expanded="true" signature="68:927" ph="{...}" />
+                <marker date="1539311166706" expanded="true" signature="210:497" ph="{...}" />
+                <marker date="1539311166706" expanded="true" signature="333:461" ph="{...}" />
+                <marker date="1539311166706" expanded="true" signature="569:912" ph="{...}" />
+                <marker date="1539311166706" expanded="true" signature="766:845" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Editor/Custom/CustomSettings.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3672">
+              <caret line="166" column="29" selection-start-line="166" selection-start-column="19" selection-end-line="166" selection-end-column="29" />
+              <folding>
+                <marker date="1539341645110" expanded="false" signature="6:297" ph="..." />
+                <marker date="1539341645110" expanded="true" signature="334:9408" ph="{...}" />
+                <marker date="1539341645110" expanded="true" signature="675:763" ph="/* 导出时强制做为静态类的类型(注意customTypeList 还要添加这个类型才能导出) ... */" />
+                <marker date="1539341645110" expanded="true" signature="831:1269" ph="{...}" />
+                <marker date="1539341645110" expanded="true" signature="1391:1678" ph="{...}" />
+                <marker date="1539341645110" expanded="true" signature="1758:6842" ph="{...}" />
+                <marker date="1539341645110" expanded="true" signature="1784:2391" ph="/* ------------------------为例子导出-------------------------------- ... */" />
+                <marker date="1539341645110" expanded="true" signature="3723:3901" ph="/* _GT(typeof(LineRenderer)).AddExtendType(typeof(DG.Tweening.ShortcutExtensions)), ... */" />
+                <marker date="1539341645110" expanded="true" signature="4176:4240" ph="/* _GT(typeof(LineRenderer)) ... */" />
+                <marker date="1539341645110" expanded="true" signature="6909:7420" ph="{...}" />
+                <marker date="1539341645110" expanded="true" signature="7427:7483" ph="/* 重载函数，相同参数个数，相同位置out参数匹配出问题时, 需要强制匹配解决 ... */" />
+                <marker date="1539341645110" expanded="true" signature="7544:7560" ph="{...}" />
+                <marker date="1539341645110" expanded="true" signature="7674:8709" ph="{...}" />
+                <marker date="1539341645110" expanded="true" signature="7684:8703" ph="/* typeof(Transform), ... */" />
+                <marker date="1539341645110" expanded="true" signature="8750:8794" ph="{...}" />
+                <marker date="1539341645110" expanded="true" signature="8838:8886" ph="{...}" />
+                <marker date="1539341645110" expanded="true" signature="8975:9176" ph="{...}" />
+                <marker date="1539341645110" expanded="true" signature="9017:9124" ph="{...}" />
+                <marker date="1539341645110" expanded="true" signature="9260:9406" ph="{...}" />
+                <marker date="1539341645110" expanded="true" signature="9302:9354" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Club.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+              <folding>
+                <marker date="1539332809418" expanded="false" signature="6:97" ph="..." />
+                <marker date="1539332809418" expanded="true" signature="132:287" ph="{...}" />
+                <marker date="1539332809418" expanded="true" signature="151:226" ph="{...}" />
+                <marker date="1539332809418" expanded="true" signature="246:285" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Main.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+              <folding>
+                <marker date="1539396780286" expanded="false" signature="6:37" ph="..." />
+                <marker date="1539396780286" expanded="true" signature="72:499" ph="{...}" />
+                <marker date="1539396780286" expanded="true" signature="348:497" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Lua/Club.lua">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="648">
+              <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="NewLua" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Quaternion</find>
+      <find>Sprite</find>
+      <find>Get</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UIManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F718FBF7-147E-4022-82FD-ACF37BDD8584/fa/cb8610f8/GameObject.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Lua/Club.lua" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerCharacter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D0DBF76D-062F-4ECE-AEA5-6D5C156D053C/6d/818c896c/Button.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Club.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ToLua/BaseType/System_ArrayWrap.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Utils/LuaUtil.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ToLua/BaseType/System_DelegateWrap.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ToLua/Core/LuaDLL.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Source/LuaConst.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Source/Generate/DelegateFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F718FBF7-147E-4022-82FD-ACF37BDD8584/34/4b0d2c62/SpriteRenderer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F718FBF7-147E-4022-82FD-ACF37BDD8584/74/ca6bcb02/UnityEvent.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Editor/Custom/CustomSettings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F718FBF7-147E-4022-82FD-ACF37BDD8584/c2/348fd5bd/UnityEventBase.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://E:/ToLuaDemo-master/Jump_Jump/Assets/Scripts/BoxControl.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Source/Generate/UnityEngine_SpriteRendererWrap.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Source/Generate/UnityEngine_GameObjectWrap.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ToLua/Core/LuaState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ToLua/Core/LuaFunction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Main.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F718FBF7-147E-4022-82FD-ACF37BDD8584/7e/63b4c143/Camera.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Lua/Player.lua" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Env.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ToLua/Core/LuaAttributes.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.postprocessing@2.0.15-preview/PostProcessing/Runtime/PostProcessProfile.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ToLua/BaseType/System_ObjectWrap.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ToLua/BaseType/System_Collections_ObjectModel_ReadOnlyCollectionWrap.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ToLua/Examples/03_CallLuaFunction/CallLuaFunction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ToLua/BaseType/System_NullObjectWrap.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Lua/Main.lua" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/ToLua/BaseType/System_EnumWrap.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ToLua/Misc/LuaClient.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Test.lua" />
+        <option value="$PROJECT_DIR$/Assets/Lua/Test.lua" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LuaManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Lua/Player.lua" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Lua/UnityEngine.lua" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Lua/UnityEngineModule.lua" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Lua/UEModule.lua" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Lua/Main.lua" />
+        <option value="$PROJECT_DIR$/Assets/Lua/UEModule.lua" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DoTweenUtil.cs" />
+        <option value="$PROJECT_DIR$/Assets/Source/Generate/DoTweenUtil.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LuaUtil.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Utils/Util.cs" />
+        <option value="$PROJECT_DIR$/Assets/Lua/Ground.lua" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Ground.cs" />
+        <option value="$PROJECT_DIR$/Assets/Lua/Game.lua" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Flag.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Spike.cs" />
+        <option value="$PROJECT_DIR$/Assets/Lua/Env.lua" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Utils/LuaUtil.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UIManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Env.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Club.cs" />
+        <option value="$PROJECT_DIR$/Assets/Editor/Custom/CustomSettings.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Main.cs" />
+        <option value="$PROJECT_DIR$/Assets/Lua/Main.lua" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerCharacter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Lua/Player.lua" />
+        <option value="$PROJECT_DIR$/Assets/Lua/Club.lua" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="330" />
+    <option name="y" value="-15" />
+    <option name="width" value="1210" />
+    <option name="height" value="632" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Angular</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Editor" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Editor" type="1045f7f1:UnityExplorerNode" />
+              <item name="Custom" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Lua" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Plugins" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor" />
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor &amp; Play" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="141393ab-899b-4f0b-ba04-df69df385ff8" name="Default Changelist" comment="" />
+      <created>1538215810278</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538215810278</updated>
+      <workItem from="1538215818884" duration="1084000" />
+      <workItem from="1539061976685" duration="16808000" />
+      <workItem from="1539136728776" duration="2491000" />
+      <workItem from="1539139985344" duration="8968000" />
+      <workItem from="1539154839652" duration="11653000" />
+      <workItem from="1539224501621" duration="22989000" />
+      <workItem from="1539250299513" duration="4903000" />
+      <workItem from="1539309119263" duration="20577000" />
+      <workItem from="1539395854714" duration="3333000" />
+      <workItem from="1539416305797" duration="599000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="93405000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.69410455" visible="true" weight="0.24413647" />
+      <window_info id="Structure" order="1" sideWeight="0.30589545" side_tool="true" visible="true" weight="0.24413647" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32925472" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32925472" />
+      <window_info anchor="bottom" id="LuaCheck" order="7" />
+      <window_info anchor="bottom" id="NuGet" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="14" weight="0.32925472" />
+      <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" weight="0.32995737" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32995737" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" weight="0.32995737" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Lua/UEModule.lua" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/LuaManager.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Source/LuaConst.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Source/Generate/DoTweenUtilWrap.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Source/Generate/DoTweenUtil.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Game.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/ToLua/Core/LuaDLL.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="706" column="60" lean-forward="true" selection-start-line="706" selection-start-column="60" selection-end-line="706" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F718FBF7-147E-4022-82FD-ACF37BDD8584/fa/cb8610f8/GameObject.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="213" column="14" lean-forward="true" selection-start-line="213" selection-start-column="11" selection-end-line="213" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Source/Generate/System_IO_FileWrap.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Source/Generate/UnityEngine_BoxColliderWrap.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Source/Generate/DelegateFactory.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Source/Generate/UtilWrap.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Source/Generate/UnityEngine_SpriteWrap.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Source/Generate/UnityEngine_AudioBehaviourWrap.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Source/Generate/UnityEngine_AudioClipWrap.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Source/Generate/UnityEngine_BoxCollider2DWrap.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Utils/Util.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/ToLua/Lua/list.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3306" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ToLua/Lua/ltn12.lua">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ToLua/BaseType/System_ArrayWrap.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="375" column="15" selection-start-line="375" selection-start-column="15" selection-end-line="375" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ToLua/Lua/tolua.lua">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ToLua/BaseType/System_Collections_ObjectModel_ReadOnlyCollectionWrap.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ToLua/BaseType/System_DelegateWrap.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ToLua/BaseType/System_EnumWrap.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ToLua/BaseType/System_NullObjectWrap.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ToLua/BaseType/System_ObjectWrap.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Source/Generate/UnityEngine_SpriteRendererWrap.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Ground.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Lua/Ground.lua" />
+    <entry file="file://$PROJECT_DIR$/Assets/Lua/Game.lua" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F718FBF7-147E-4022-82FD-ACF37BDD8584/34/4b0d2c62/SpriteRenderer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Flag.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Spike.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F718FBF7-147E-4022-82FD-ACF37BDD8584/c2/348fd5bd/UnityEventBase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F718FBF7-147E-4022-82FD-ACF37BDD8584/74/ca6bcb02/UnityEvent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D0DBF76D-062F-4ECE-AEA5-6D5C156D053C/6d/818c896c/Button.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="91" column="5" lean-forward="true" selection-start-line="91" selection-start-column="5" selection-end-line="91" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ToLua/Examples/03_CallLuaFunction/CallLuaFunction.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1506" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ToLua/Core/LuaState.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="822">
+          <caret line="755" selection-start-line="755" selection-end-line="755" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/UIManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Source/Generate/UnityEngine_GameObjectWrap.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="97" column="18" selection-start-line="97" selection-start-column="15" selection-end-line="97" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Env.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.postprocessing@2.0.15-preview/PostProcessing/Runtime/PostProcessProfile.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerCharacter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding>
+            <marker date="1539397713507" expanded="false" signature="6:111" ph="..." />
+            <marker date="1539397713507" expanded="true" signature="156:640" ph="{...}" />
+            <marker date="1539397713507" expanded="true" signature="253:354" ph="{...}" />
+            <marker date="1539397713507" expanded="true" signature="377:420" ph="{...}" />
+            <marker date="1539397713507" expanded="true" signature="473:530" ph="{...}" />
+            <marker date="1539397713507" expanded="true" signature="580:638" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Lua/Main.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Lua/Env.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Lua/Player.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1128">
+          <caret line="47" column="23" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Utils/LuaUtil.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
+          <folding>
+            <marker date="1539311166706" expanded="false" signature="7:39" ph="..." />
+            <marker date="1539311166706" expanded="true" signature="68:927" ph="{...}" />
+            <marker date="1539311166706" expanded="true" signature="210:497" ph="{...}" />
+            <marker date="1539311166706" expanded="true" signature="333:461" ph="{...}" />
+            <marker date="1539311166706" expanded="true" signature="569:912" ph="{...}" />
+            <marker date="1539311166706" expanded="true" signature="766:845" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Editor/Custom/CustomSettings.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3672">
+          <caret line="166" column="29" selection-start-line="166" selection-start-column="19" selection-end-line="166" selection-end-column="29" />
+          <folding>
+            <marker date="1539341645110" expanded="false" signature="6:297" ph="..." />
+            <marker date="1539341645110" expanded="true" signature="334:9408" ph="{...}" />
+            <marker date="1539341645110" expanded="true" signature="675:763" ph="/* 导出时强制做为静态类的类型(注意customTypeList 还要添加这个类型才能导出) ... */" />
+            <marker date="1539341645110" expanded="true" signature="831:1269" ph="{...}" />
+            <marker date="1539341645110" expanded="true" signature="1391:1678" ph="{...}" />
+            <marker date="1539341645110" expanded="true" signature="1758:6842" ph="{...}" />
+            <marker date="1539341645110" expanded="true" signature="1784:2391" ph="/* ------------------------为例子导出-------------------------------- ... */" />
+            <marker date="1539341645110" expanded="true" signature="3723:3901" ph="/* _GT(typeof(LineRenderer)).AddExtendType(typeof(DG.Tweening.ShortcutExtensions)), ... */" />
+            <marker date="1539341645110" expanded="true" signature="4176:4240" ph="/* _GT(typeof(LineRenderer)) ... */" />
+            <marker date="1539341645110" expanded="true" signature="6909:7420" ph="{...}" />
+            <marker date="1539341645110" expanded="true" signature="7427:7483" ph="/* 重载函数，相同参数个数，相同位置out参数匹配出问题时, 需要强制匹配解决 ... */" />
+            <marker date="1539341645110" expanded="true" signature="7544:7560" ph="{...}" />
+            <marker date="1539341645110" expanded="true" signature="7674:8709" ph="{...}" />
+            <marker date="1539341645110" expanded="true" signature="7684:8703" ph="/* typeof(Transform), ... */" />
+            <marker date="1539341645110" expanded="true" signature="8750:8794" ph="{...}" />
+            <marker date="1539341645110" expanded="true" signature="8838:8886" ph="{...}" />
+            <marker date="1539341645110" expanded="true" signature="8975:9176" ph="{...}" />
+            <marker date="1539341645110" expanded="true" signature="9017:9124" ph="{...}" />
+            <marker date="1539341645110" expanded="true" signature="9260:9406" ph="{...}" />
+            <marker date="1539341645110" expanded="true" signature="9302:9354" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Main.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+          <folding>
+            <marker date="1539396780286" expanded="false" signature="6:37" ph="..." />
+            <marker date="1539396780286" expanded="true" signature="72:499" ph="{...}" />
+            <marker date="1539396780286" expanded="true" signature="348:497" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Lua/Club.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Club.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding>
+            <marker date="1539332809418" expanded="false" signature="6:97" ph="..." />
+            <marker date="1539332809418" expanded="true" signature="132:287" ph="{...}" />
+            <marker date="1539332809418" expanded="true" signature="151:226" ph="{...}" />
+            <marker date="1539332809418" expanded="true" signature="246:285" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

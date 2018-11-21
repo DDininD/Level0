@@ -22,3 +22,10 @@ D:\trunk201807\students\dingqiyu\ConsoleGame\ConsoleApp3\obj\Debug\ConsoleGame.p
 D:\trunk201807\students\dingqiyu\ConsoleGame\ConsoleApp3\bin\Debug\Newtonsoft.Json.dll
 D:\trunk201807\students\dingqiyu\ConsoleGame\ConsoleApp3\bin\Debug\Newtonsoft.Json.xml
 D:\trunk201807\students\dingqiyu\ConsoleGame\ConsoleApp3\obj\Debug\ConsoleGame.csproj.CopyComplete
+F:\github\myWorks\ConsoleGame\ConsoleApp3\bin\Debug\ConsoleGame.exe.config
+F:\github\myWorks\ConsoleGame\ConsoleApp3\bin\Debug\ConsoleGame.exe
+F:\github\myWorks\ConsoleGame\ConsoleApp3\bin\Debug\ConsoleGame.pdb
+F:\github\myWorks\ConsoleGame\ConsoleApp3\obj\Debug\ConsoleGame.csprojAssemblyReference.cache
+F:\github\myWorks\ConsoleGame\ConsoleApp3\obj\Debug\ConsoleGame.csproj.CoreCompileInputs.cache
+F:\github\myWorks\ConsoleGame\ConsoleApp3\obj\Debug\ConsoleGame.exe
+F:\github\myWorks\ConsoleGame\ConsoleApp3\obj\Debug\ConsoleGame.pdb
